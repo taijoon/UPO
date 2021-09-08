@@ -9,6 +9,7 @@
 ## 작업
   - [FORA](https://github.com/taijoon/UPO_FOTA)
   - [Variscite](https://github.com/taijoon/UPO_Variscite)
+  - [TIC](https://github.com/taijoon/UPO_TIC)
   - RPI, Tenserflow
 
 ## RPI
